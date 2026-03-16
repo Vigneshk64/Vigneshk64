@@ -25,3 +25,5 @@ HTML | CSS | JavaScript | React | Node.js | Git
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vigneshk64&theme=tokyonight)
 
+https://github-readme-stats.vercel.app
+https://github-readme-streak-stats.herokuapp.com
