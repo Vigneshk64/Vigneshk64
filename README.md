@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;JavaScript+Lover&center=true&width=500&height=50)]()
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 <h3 align="center">Full Stack Developer | React | JavaScript</h3>
 
@@ -25,5 +26,4 @@ HTML | CSS | JavaScript | React | Node.js | Git
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vigneshk64&theme=tokyonight)
 
-https://github-readme-stats.vercel.app
-https://github-readme-streak-stats.herokuapp.com
+
