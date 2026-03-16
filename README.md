@@ -29,4 +29,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vigneshk64&theme=tokyonight)
 
-
+![Snake animation](https://github.com/Vigneshk64/Vigneshk64-snake/blob/output/github-contribution-grid-snake.svg)
