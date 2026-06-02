@@ -2,21 +2,21 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Agent+Builder;Next.js+%7C+React+%7C+TypeScript;Building+Real+Products&center=true&width=500&height=50">
 </p>
 
-<h1 align="center">Hi 👋, I'm Vignesh Das</h1>
+<h1 align="center">Hi, I'm Vignesh Das</h1>
 <h3 align="center">Full Stack Developer | AI Agents | Next.js | Firebase</h3>
 
 ---
 
-### 🚀 About Me
-- 🔨 Building AI-powered full stack applications
-- 🤖 Exploring AI agent workflows with n8n & LLM APIs
-- 🏆 Active hackathon competitor — BIT TechVerse 2026, AMD Developer Hackathon
-- 💻 Stack: Next.js, React, TypeScript, Firebase, Tailwind CSS
-- 📫 Reach me: dasvignesh797@gmail.com
+### About Me
+- Building AI-powered full stack applications
+- Exploring AI agent workflows with n8n and LLM APIs
+- Active hackathon competitor — BIT TechVerse 2026, AMD Developer Hackathon
+- Stack: Next.js, React, TypeScript, Firebase, Tailwind CSS
+- Contact: dasvignesh797@gmail.com
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 <p align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-### 🏗 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -43,12 +43,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vigneshk64&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🔥 Contribution Streak
+### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vigneshk64&theme=tokyonight)
 
 ![Snake animation](https://github.com/Vigneshk64/Vigneshk64-snake/blob/output/github-contribution-grid-snake.svg)
